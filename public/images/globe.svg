@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="295.5" height="200.871" viewBox="0 0 295.5 200.871">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_141" data-name="Rectangle 141" width="295.5" height="200.871" transform="translate(0 1325.962)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="path1851" d="M0-682.665H236.29v236.29H0Z" transform="translate(0 682.665)" fill="rgba(255,255,255,0)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(0 -1325.962)" clip-path="url(#clip-path)">
+    <g id="g1845" transform="translate(36.855 2027.165)" opacity="0.17">
+      <g id="g1847" transform="translate(0 -682.665)">
+        <g id="g1849" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+          <g id="g1855" transform="translate(6.923 6.923)">
+            <path id="path1857" d="M-420.22-210.11A111.222,111.222,0,0,1-531.443-98.888,111.222,111.222,0,0,1-642.665-210.11,111.222,111.222,0,0,1-531.443-321.333,111.222,111.222,0,0,1-420.22-210.11Z" transform="translate(642.665 321.333)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="9"/>
+          </g>
+          <g id="g1859" transform="translate(62.534 6.923)">
+            <path id="path1861" d="M-105.055-420.22c-30.713,0-55.611-49.8-55.611-111.222s24.9-111.223,55.611-111.223" transform="translate(160.666 642.665)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="9"/>
+          </g>
+          <g id="g1863" transform="translate(118.145 6.923)">
+            <path id="path1865" d="M0,0C30.713,0,55.611,49.8,55.611,111.222S30.713,222.445,0,222.445" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="9"/>
+          </g>
+          <g id="g1867" transform="translate(118.145 6.923)">
+            <path id="path1869" d="M0,0V222.445" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="9"/>
+          </g>
+          <g id="g1871" transform="translate(6.923 118.145)">
+            <path id="path1873" d="M0,0H222.445" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="9"/>
+          </g>
+          <g id="g1875" transform="translate(31.33 48.616)">
+            <path id="path1877" d="M-328.006,0c-20.383,12.709-51.7,20.846-86.816,20.846S-481.254,12.709-501.637,0" transform="translate(501.637)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="9"/>
+          </g>
+          <g id="g1879" transform="translate(31.329 166.828)">
+            <path id="path1881" d="M0-39.38C20.383-52.089,51.7-60.227,86.816-60.227s66.432,8.137,86.815,20.846" transform="translate(0 60.227)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="9"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
